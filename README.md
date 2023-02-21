@@ -35,6 +35,7 @@ Maven:
 [Gson jar downloads](https://maven-badges.herokuapp.com/maven-central/com.google.code.gson/gson) are available from Maven Central.
 
 ![Build Status](https://github.com/google/gson/actions/workflows/build.yml/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthrow99away%2Fgson.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthrow99away%2Fgson?ref=badge_shield)
 
 ### Requirements
 #### Minimum Java version
@@ -88,6 +89,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthrow99away%2Fgson.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthrow99away%2Fgson?ref=badge_large)
 
 ### Disclaimer
 
